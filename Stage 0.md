@@ -1,7 +1,7 @@
 # HackBio-Intership-Cancer-
 Authors (@slack): Omar Holayell (Holayell) frontend Bioinformatics 
 # Data visualisations of cancer
-One of the advantages of using R is that researchers have a much larger range of fully customizable data visualisations options than are typically available in point-and-click software because of the open-source nature of R. These visualisation options not only look attractive but also can increase transparency about the distribution of the underlying data rather than relying on commonly used visualisations of aggregations(1) 
+Data visualisations of cancer is the use of visual representations to understand, analyse, and communicate data related to cancer research and treatment andOne of the advantages of using R is that researchers have a much larger range of fully customizable data visualisations options than are typically available in point-and-click software because of the open-source nature of R. These visualisation options not only look attractive but also can increase transparency about the distribution of the underlying data rather than relying on commonly used visualisations of aggregations(1) 
 
 # Some type of graphic in data visualisation :
   Bar Chart, Gantt Chart, Heat Map, Histogram Diagram, Network Diagram, Pie Chart, Scatter Plot (2)
