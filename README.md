@@ -9,10 +9,13 @@ One of the advantages of using R is that researchers have a much larger range of
 # Importance data visualisations in cancer 
  1- Enhancing Understanding of Complex Data :
  Cancer research often involves large and complex datasets, including genomic, proteomic, and clinical data. Visualisation techniques such as heatmaps, scatter plots, and 3D models allow researchers to identify patterns, trends, and anomalies that may not be apparent in raw data. For instance, the use of dimensionality reduction techniques like UMAP (Uniform Manifold Approximation and Projection) can help visualise high-dimensional single-cell RNA sequencing data (3)
+ 
 2- Facilitating Communication of Findings : 
 Effective communication of research findings is critical for collaboration among scientists, clinicians, and stakeholders. Visualisations can convey complex information quickly and clearly, making it easier to share insights with non-experts. For example, the use of interactive visual tools can help pathologists and oncologists better understand tumour microenvironments and the implications for treatment 
+
 3- Aiding in Decision-Making for Treatment Strategies
 Data visualisation tools can assist clinicians in making informed decisions regarding treatment options. For instance, visualising patient data alongside treatment outcomes can help identify which therapies are most effective for specific cancer types or patient demographics. This is particularly important in personalised medicine, where treatment plans are tailored to individual patient profiles 
+
 4- Visualizing Treatment Outcomes and Patient Responses
 Visualisations can also be used to track treatment outcomes and patient responses over time, providing valuable insights into the effectiveness of therapies. For example, visualising survival curves or response rates can help identify which treatments yield the best outcomes for specific patient populations (4)
 
