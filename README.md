@@ -1,5 +1,5 @@
 # HackBio-Intership-Cancer-
-frontend Bioinformatics 
+Authors (@slack): Omar Holayell (Holayell) frontend Bioinformatics 
 # Data visualisations of cancer
 One of the advantages of using R is that researchers have a much larger range of fully customizable data visualisations options than are typically available in point-and-click software because of the open-source nature of R. These visualisation options not only look attractive but also can increase transparency about the distribution of the underlying data rather than relying on commonly used visualisations of aggregations(1) 
 
