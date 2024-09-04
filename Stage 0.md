@@ -20,7 +20,7 @@ Data visualisations of cancer is the use of visual representations to understand
 
 # Importance data visualisations in cancer 
  1- Enhancing Understanding of Complex Data :
- Cancer research often involves large and complex datasets, including genomic, proteomic, and clinical data. Visualisation techniques such as heatmaps, scatter plots, and 3D models allow researchers to identify patterns, trends, and anomalies that may not be apparent in raw data. For instance, the use of dimensionality reduction techniques like UMAP (Uniform Manifold Approximation and Projection) can help visualise high-dimensional single-cell RNA sequencing data (3)
+ Cancer research often involves large and complex datasets, including genomic, proteomic, and clinical data. Visualisation techniques such as heatmaps, scatter plots, and 3D models allow researchers to identify patterns, trends, and anomalies that may not be apparent in raw data. For instance, the use of dimensionality reduction techniques like UMAP (Uniform Manifold Approximation and Projection) can help visualise high-dimensional single-cell RNA sequencing data(3)
  
 2- Facilitating Communication of Findings : 
 Effective communication of research findings is critical for collaboration among scientists, clinicians, and stakeholders. Visualisations can convey complex information quickly and clearly, making it easier to share insights with non-experts. For example, the use of interactive visual tools can help pathologists and oncologists better understand tumour microenvironments and the implications for treatment 
