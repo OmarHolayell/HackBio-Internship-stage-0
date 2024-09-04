@@ -6,6 +6,19 @@ Data visualisations of cancer is the use of visual representations to understand
 # Some type of graphic in data visualisation :
   Bar Chart, Gantt Chart, Heat Map, Histogram Diagram, Network Diagram, Pie Chart, Scatter Plot (2)
 
+
+![figure](https://github.com/user-attachments/assets/41ebda70-4f72-4c7e-8e88-95376c4d6b65)
+
+
+
+
+
+
+
+
+
+  
+
 # Importance data visualisations in cancer 
  1- Enhancing Understanding of Complex Data :
  Cancer research often involves large and complex datasets, including genomic, proteomic, and clinical data. Visualisation techniques such as heatmaps, scatter plots, and 3D models allow researchers to identify patterns, trends, and anomalies that may not be apparent in raw data. For instance, the use of dimensionality reduction techniques like UMAP (Uniform Manifold Approximation and Projection) can help visualise high-dimensional single-cell RNA sequencing data (3)
@@ -24,7 +37,7 @@ data visualisation is a critical component of cancer research that enhances unde
 
 # References
  1.  Nordmann E, McAleer P, Toivo W, Paterson H, DeBruine LM. Data Visualization Using R for Researchers Who Do Not Use R. Advances in Methods and Practices in Psychological Science. 2022;5(2). doi:10.1177/25152459221074654
- 2.  “Visualizing Data: The Basics | CBIIT.” CBIIT, 20 December 2023, https://datascience.cancer.gov/training/learn-data-science/visualize-data-basics. Accessed 3 September 2024.
+ 2.  https://www.geeksforgeeks.org/r-charts-and-graphs
  3.  IOBR2: Multidimensional Decoding Tumor Microenvironment for Immuno-Oncology Research
 Dongqiang Zeng, Yiran Fang, Peng Luo, Wenjun Qiu, Shixiang Wang, Rongfang Shen, Wenchao Gu, Xiatong Huang, Qianqian Mao, Yonghong Lai, Xi Xu, Min Shi, Guangchuang Yu, Wangjun Liao
 bioRxiv 2024.01.13.575484; doi: https://doi.org/10.1101/2024.01.13.575484
